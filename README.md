@@ -19,8 +19,8 @@ Fitting virtual accessory by face detection and computer vision for independent 
   Face detecting can be on and off when user push '1'.
 
 
-![record_msg](docs/record_msg.png)
-![saved_file](docs/saved_file.png)
+![record_msg](docs/record_msg.PNG)
+![saved_file](docs/saved_file.PNG)
 &nbsp;
   - ***Auto recording and export as video***<br>
   User can record the video as default.
