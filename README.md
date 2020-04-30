@@ -23,7 +23,8 @@ Fitting virtual accessory by face detection and computer vision for independent 
 
 
   - ***Exception handling for image out of frame range***<br>
-  When the accessory 
+  When the accessory locate on the out of frame, program does not show the accessory for fitting.
+  This exception handling over top, bottom, left and right side of frame.
   <br>
   
 ![range_over](docs/range_over.png)
