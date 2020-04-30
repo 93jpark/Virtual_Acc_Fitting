@@ -19,13 +19,16 @@ Fitting virtual accessory by face detection and computer vision for independent 
   Face detecting can be on and off when user push '1'.
 
 
-![range_over](docs/range_over.png)
+![record_msg](docs/record_msg.png)
+![saved_file](docs/saved_file.png)
 &nbsp;
   - ***Auto recording and export as video***<br>
   User can record the video as default.
   When the program begin, it automatically record the video.
   Then, user can check the output as .avi file at src folder.
 
+![range_over](docs/range_over.png)
+&nbsp;
 
 
 ## Reference
