@@ -1,4 +1,4 @@
-<center># Virtual Fitting Program</center>
+# Virtual Fitting Program
   2020 Spring CPS497 Independent Study
   Joonwoo Park
   Central Michigan University
