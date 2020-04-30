@@ -23,6 +23,7 @@ Fitting virtual accessory by face detection and computer vision for independent 
 
 
   - ***Exception handling for image out of frame range***<br>
+  When the accessory 
   <br>
   
 ![range_over](docs/range_over.png)
