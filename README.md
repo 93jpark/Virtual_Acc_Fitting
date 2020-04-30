@@ -12,14 +12,14 @@ Fitting virtual accessory by face detection and computer vision for independent 
 
 
 ## Feature
-![Logo](docs/detecting_onoff.png)
+![detecting_onoff](docs/detecting_onoff.png)
 &nbsp;
   - ***face detection on & off***<br>
   The program wait user's key input.
   Face detecting can be on and off when user push '1'.
 
 
-![Logo](docs/range_over.png)
+![range_over](docs/range_over.png)
 &nbsp;
   - ***Auto recording and export as video***<br>
   User can record the video as default.
