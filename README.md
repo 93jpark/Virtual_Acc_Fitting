@@ -1,5 +1,5 @@
 
-# Virtual Fitting Program
+# Virtual Accessory Fitting Program
 <p>2020 Spring CPS497 Independent Study<br>
 Joonwoo Park<br>
 Central Michigan University</p>
@@ -9,6 +9,21 @@ Central Michigan University</p>
 Fitting virtual accessory by face detection and computer vision for independent study project
 
 ## How it works
+
+This project use __OpenCV__'s prebuilt _Cascade Classifier for frontal face detection_.
+```python
+face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+```
+
+_detectMultiScale_ method detect present frame's face location.<br>
+variable x, y store face coordinates<br>
+variable w, h store face width and height
+```python
+faces = face_cascade.detectMultiScale(frame, 1.1, 4)
+for (x, y, w, h) in faces:
+roi_color = frame[y:y + h, x:x + w]
+```
+ㅓㅗㅜㅡㅏ
 
 
 ## Feature
