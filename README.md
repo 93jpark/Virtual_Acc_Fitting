@@ -23,7 +23,6 @@ faces = face_cascade.detectMultiScale(frame, 1.1, 4)
 for (x, y, w, h) in faces:
 roi_color = frame[y:y + h, x:x + w]
 ```
-ㅓㅗㅜㅡㅏ
 
 
 ## Feature
@@ -56,8 +55,10 @@ roi_color = frame[y:y + h, x:x + w]
 &nbsp;
 
 ## Reference
-
-
-
+[OpenCV Official Website](https://opencv.org/)<br>
+[ProgrammingKnowledge's OpenCV for Python Beginners](https://www.youtube.com/watch?v=N81PCpADwKQ&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&index=48&t=0s)<br>
+[Traversy Media's Python Face Recognition](https://www.youtube.com/watch?v=QSTnwsZj2yc&list=WL&index=19&t=0s)<br>
+[CodingEntrepreneurs's OpenCV for face recognition and identification](https://www.youtube.com/watch?v=PmZ29Vta7Vc&t=1340s)<br>
+[Pysource's Face landmarks detection](https://www.youtube.com/watch?v=MrRGVOhARYY&t=235s)<br>
 
 
