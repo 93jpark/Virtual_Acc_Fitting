@@ -60,5 +60,5 @@ roi_color = frame[y:y + h, x:x + w]
 [Traversy Media's Python Face Recognition](https://www.youtube.com/watch?v=QSTnwsZj2yc&list=WL&index=19&t=0s)<br>
 [CodingEntrepreneurs's OpenCV for face recognition and identification](https://www.youtube.com/watch?v=PmZ29Vta7Vc&t=1340s)<br>
 [Pysource's Face landmarks detection](https://www.youtube.com/watch?v=MrRGVOhARYY&t=235s)<br>
-
+[easygui](http://easygui.sourceforge.net/)
 
